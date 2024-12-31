@@ -1,3 +1,4 @@
 streamlit
 PYPDF2
 google-generativeai
+PyMuPDF
